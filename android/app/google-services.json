@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "248658899118",
+    "project_id": "ts-training-demo",
+    "storage_bucket": "ts-training-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248658899118:android:d793123bb1bf626b827d3f",
+        "android_client_info": {
+          "package_name": "com.example.ts_training_demo_fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248658899118-qlc9slqkb13409gbpk068hffpp9t8514.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ts_training_demo_fb",
+            "certificate_hash": "5c83c9a6d738898f0017291a6e2bfb8e1ed5c8f1"
+          }
+        },
+        {
+          "client_id": "248658899118-q66lg31vereai0ds4d143vdoilmflfu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwPAqs_cF25i_Ai5Yt3gaV80pdltDzjAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248658899118-q66lg31vereai0ds4d143vdoilmflfu3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "248658899118-2t4aoi9d5jsppbccokh3nmj7e52ddc0p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tsTrainingDemoFb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
