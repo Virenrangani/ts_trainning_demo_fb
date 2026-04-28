@@ -1,16 +1,46 @@
-# ts_training_demo_fb
+### 🔹 Firebase Setup
+- Firebase project configuration
+- Connecting Flutter app with Firebase
+- Platform setup (Android / iOS / Web / MacOs / Windows)
 
-A new Flutter project.
+### 🔹 Firebase Authentication
+- Email & Password Authentication
+- Mobile (OTP) Authentication
+- Social Login (Google / others)
 
-## Getting Started
+### 🔹 Firebase Firestore (Database)
+- CRUD Operations:
+  - Create
+  - Read
+  - Update
+  - Delete
+- Real-time data handling
 
-This project is a starting point for a Flutter application.
+### 🔹 Firebase Crashlytics & Analytics
+- Crash reporting using Crashlytics
+- User behavior tracking with Analytics
 
-A few resources to get you started if this is your first Flutter project:
+### 🔹 Google Maps Integration
+- Displaying maps in Flutter
+- Markers & basic map interactions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🔹 Push Notifications
+- Firebase Cloud Messaging (FCM)
+- Handling foreground & background notifications
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🔹 Clean Architecture
+- Layered structure:
+  - Presentation Layer (UI)
+  - Domain Layer (Business Logic)
+  - Data Layer (API / Database)
+- Separation of concerns
+- Scalable & maintainable code structure
+
+### 🔹 Dependency Injection
+- Using GetIt for service locator
+- Managing dependencies efficiently
+- Decoupling components for better testing
+
+
+  
+
